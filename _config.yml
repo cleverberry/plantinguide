@@ -22,8 +22,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "/plantinguide" # the base hostname & protocol for your site
-baseurl: "/plantinguide"
+url: "" # the base hostname & protocol for your site
+baseurl: ""
 #used to display twitter cards
 twitter_handle: ''
 
