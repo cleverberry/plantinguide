@@ -5,9 +5,9 @@ plugins:
 
 # Site settings
 title: "Planting Guide"
-description: Happy planting, happy living.
+description: This is a blog about planting guides, tips and techniques on gardening and other planting articles. We believe that a happy life leads to happy living.
 
-email:  social@cleverberry.co.uk
+email: social@cleverberry.co.uk
 website: https://cleverberry.co.uk
 #blog logo
 logo: "/assets/images/plantinguide_logo_v2.png"
