@@ -4,8 +4,8 @@ title: "Indoor Plant Pots Guide"
 dat: 2020-09-04
 categories: plant
 tags:
-<!-- image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG -->
-<!-- image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG -->
+image: /assets/images/article-images/indoor_plant.jpg
+image2: /assets/images/article-images/indoor_plant.jpg
 ---
 
 <p>

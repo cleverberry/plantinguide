@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Onion Planting Guide Philippines"
-date: 2020-11-30
+date: 2020-09-04
 categories: plant
 tags:
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+image: /assets/images/article-images/onion.jpg
+image2: /assets/images/article-images/onion.jpg
 ---
 
 <p>The Philippines has encountered a lack of onions, a primary preservative innumerous nearby and common dishes, pushing
@@ -30,12 +30,21 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 <p>6. Crop turn with individual root yields, for example, garlic, potato, shallot,and radish look good for onion. </p>
 
 <h4>Care of planted onion</h4>
-<p>1. Every few week weeks afterward planting, apply nitrogen compost toimprove massive bulbs. However, when onions
-    begin bulbing measure, quitpreparing. Likewise, abstain from returning soil around the onions; the bulbneeds to
-    develop over the ground. </p>
-<p>2. If mulch is utilized to hold soil dampness and expect fragmentation,planted onions don't require reliable
-    watering. Around one inch of water —including water if accessible — should be sufficient. Water all the
-    morefrequently during dry spell conditions.</p>
+<p>
+<ol>
+    <li>
+        Every few week weeks afterward planting, apply nitrogen compost toimprove massive bulbs. However, when onions
+        begin bulbing measure, quitpreparing. Likewise, abstain from returning soil around the onions; the bulbneeds to
+        develop over the ground.
+    </li>
+    <li>
+        If mulch is utilized to hold soil dampness and expect fragmentation,planted onions don't require reliable
+        watering. Around one inch of water —including water if accessible — should be sufficient. Water all the
+        morefrequently during dry spell conditions.
+    </li>
+</ol>
+</p>
+
 <p>3. Covering, which can be grass trimmings, feed, leaves, or destroyed treerind, likewise helps in managing soil
     temperature and smother developmentof weeds that take soil supplements.</p>
 <p>4. Onion propelling is the point at which the plant begins to show a bloomtail. This could be a direct result of
@@ -46,4 +55,29 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 <p>Sadly onions are likewise vulnerable against bugs and infections. Foliarinfections and bulb decay, for example,
     disgusting or 'sharp' external scales,is a bacterial illness that fundamentally decreases onion bulb quality.
     Bugsthat feed on onion incorporate nematodes, stem and bulb eelworm, thrips,and onion fly or worm. Additionally,
-    regular guilty parties are parasiticinfections, for example, neck decay, mold, rust, and leaf decay.</p>
+    regular guilty parties are parasiticinfections, for example, neck decay, mold, rust, and leaf decay.
+
+<ul>
+    <li>
+        Get your seed supplies from a source that is confirmed as disease-free.
+    </li>
+    <li>
+        Discard additional natural refuse and junk and separates instantly. Greatfumigation around the harvest helps
+        keep illness bug out of the planting zone
+    </li>
+    <li>
+        Stop nitrogen preparation after mid-season as nitrogen compost delaysbulb advancement and gives abundant time
+        for diseases to attack theharvest.
+    </li>
+    <li>
+        Discard separates and other natural flotsam and jetsam expeditiously.Growths overwinter in flotsam and jetsam
+        left in the nursery, and thisincorporates onion plant matter that you work into the dirt. Great
+        sterilizationhelps keep illness bugs out of the nursery.
+    </li>
+    <li>
+        Ensure that you don't cut any aspect of the bulb or vegetation duringroutine cleanup. Little cuts can make
+        section point for illnesses.
+    </li>
+</ul>
+
+</p>
