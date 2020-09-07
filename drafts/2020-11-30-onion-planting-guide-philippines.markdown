@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Onion Planting Guide Philippines"
+date: 2020-11-30
 categories: plant
 tags:
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
