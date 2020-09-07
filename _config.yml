@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 
@@ -18,7 +18,7 @@ cover: "/assets/images/background_image.jpg"
 
 name: 'Cleverberry'
 author: 'Cleverberry'
-author_image: "/assets/images/author.jpg"
+author_image: "https://cleverberry.com/wp-content/uploads/2020/08/berrylogowhite.png"
 
 paginate: 5
 
