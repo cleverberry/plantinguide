@@ -79,5 +79,4 @@ image2: /assets/images/article-images/onion.jpg
         section point for illnesses.
     </li>
 </ul>
-
 </p>
