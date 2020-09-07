@@ -5,8 +5,7 @@ gems:
 
 # Site settings
 title: "Planting Guide"
-description: > # this means to ignore newlines until "email:"
-   Happy planting, happy living.
+description: Happy planting, happy living.
 
 email:  social@cleverberry.co.uk
 website: https://cleverberry.co.uk
@@ -49,12 +48,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  # - icon:	github
-  #   url:	https://github.com/
-  #   desc:	Fork me on github
-  #   share_url:
-  #   share_title:
-  #   share_link:
+# - icon:	github
+#   url:	https://github.com/
+#   desc:	Fork me on github
+#   share_url:
+#   share_title:
+#   share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
