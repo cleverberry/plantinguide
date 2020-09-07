@@ -11,7 +11,7 @@ email:  social@cleverberry.co.uk
 website: https://cleverberry.co.uk
 #blog logo
 logo: "/assets/images/plantinguide_logo_v2.png"
-float_logo: true # true, false (default)
+float_logo: false # true, false (default)
 
 # blog cover
 cover: "/assets/images/background_image.jpg"
@@ -61,3 +61,5 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+permalink: :title/
