@@ -48,18 +48,4 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-# - icon:	github
-#   url:	https://github.com/
-#   desc:	Fork me on github
-#   share_url:
-#   share_title:
-#   share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
-
 permalink: :title/
