@@ -7,7 +7,7 @@ tags:
 image: /assets/images/article-images/.jpg
 image2: /assets/images/article-images/.jpg
 ---
-<h4>PICK THE RIGHT LOCATION </h4>
+<h4>Pick the right location</h4>
 <p>Picking a garden area for your garden is key. A below-average area can bringabout careless vegetarians! Here are a
     couple of tips for picking a decentsite:
 <ol>
