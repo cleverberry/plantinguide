@@ -26,7 +26,7 @@ paginate: 5
 url: "" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: ''
+twitter_handle: '@cleverberry_'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -54,4 +54,4 @@ social:
   - icon: tumblr
     url: https://cleverberry.tumblr.com/
 
-permalink: :title/
+permalink: pretty
