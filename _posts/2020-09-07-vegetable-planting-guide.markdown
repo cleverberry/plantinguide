@@ -4,11 +4,11 @@ title: "Vegetable Planting Guide"
 date: 2020-09-07
 categories: plant
 tags:
-image: /assets/images/article-images/.jpg
-image2: /assets/images/article-images/.jpg
+image: /assets/images/article-images/vegetable.jpg
+image2: /assets/images/article-images/vegetable.jpg
 ---
 <h4>Pick the right location</h4>
-<p>Picking a garden area for your garden is key. A below-average area can bringabout careless vegetarians! Here are a
+<p>Picking a garden area for your garden is key. A below-average area can bring about careless vegetarians! Here are a
     couple of tips for picking a decentsite:
 <ol>
     <li>Plant in a sunny area. Most vegetables need in any event 6 hours of directdaylight every day. There are a couple
