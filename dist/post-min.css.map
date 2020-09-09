@@ -1,0 +1,1 @@
+{"version":3,"sources":["post-min.css"],"names":[],"mappings":"AAAA,WAAW,kBAAkB,CAAC,uBAAuB,CAAC,SAAS,eAAe","file":"post-min.css","sourcesContent":["p,ul>li,li{text-align:justify;text-justify:inter-word}.content{max-width:700px}"]}

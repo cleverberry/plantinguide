@@ -1,0 +1,1 @@
+{"version":3,"sources":["post.css"],"names":[],"mappings":"AAAA,WACI,kBAAmB,CACnB,uBAAwB,CAG1B,SACE,eAAgB","file":"post.css","sourcesContent":["p, ul > li, li {\r\n    text-align: justify;\r\n    text-justify: inter-word;\r\n  }\r\n\r\n  .content {\r\n    max-width: 700px;\r\n  }"]}
