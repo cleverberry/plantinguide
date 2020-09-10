@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/garden_plant.jpg
 image2: /assets/images/article-images/garden_plant.jpg
+thumbnail: /assets/images/article-images/plantpot_thumb.jpg
 ---
 <p>Accomplishment depends on upon picking a plant that matchesyour garden's environment, for example, sun or
     shadeintroduction, wet or dry areas, and presentation to the ordinaryactivity or stormy conditions. Chosen plants

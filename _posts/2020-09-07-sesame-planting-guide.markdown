@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/sesame.jpg
 image2: /assets/images/article-images/sesame.jpg
+thumbnail: /assets/images/article-images/sesame_thumb.jpg
 ---
 <p>The sesame is largely adapted in tropical areas around the globe. Also, thesesame is mostly developed for its tasty
     seeds, which develop in cases orbuns. The Sesamum has many different species, most being wild and local

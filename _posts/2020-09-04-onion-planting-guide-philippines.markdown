@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/onion.jpg
 image2: /assets/images/article-images/onion.jpg
+thumbnail: /assets/images/article-images/onion_thumb.jpg
 ---
 
 <p>The Philippines has encountered a lack of onions, a primary preservative innumerous nearby and common dishes, pushing

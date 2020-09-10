@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/polyculture.jpg
 image2: /assets/images/article-images/polyculture.jpg
+thumbnail: /assets/images/article-images/polyculture_thumb.jpg
 ---
 
 <p>Polyculture is a gathering of plants of various species planted together.Polyculture cultivating agendas have various

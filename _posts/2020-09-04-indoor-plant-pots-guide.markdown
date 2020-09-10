@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/indoor_plant.jpg
 image2: /assets/images/article-images/indoor_plant.jpg
+thumbnail: /assets/images/article-images/plant pot_thumb.jpg
 ---
 
 <p>

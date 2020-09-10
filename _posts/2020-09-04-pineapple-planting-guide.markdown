@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/pineapple.jpg
 image2: /assets/images/article-images/pineapple.jpg
+thumbnail:  /assets/images/article-images/pineapple_thumb.jpg
 ---
 <p>
     To grow a pineapple plant, all you need is a new pineapple. At that pointseparate the leaves from the fruits of the

@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/pot_plant_watering.jpg
 image2: /assets/images/article-images/pot_plant_watering.jpg
+thumbnail: /assets/images/article-images/watering_thumb.jpg
 ---
 <p>
     Open-air cultivating in the pot has lots of preferences, however, it likewisehas a few difficulties. One such test

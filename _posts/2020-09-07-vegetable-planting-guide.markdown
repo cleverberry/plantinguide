@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/vegetable.jpg
 image2: /assets/images/article-images/vegetable.jpg
+thumbnail: /assets/images/article-images/veggie_thumb.jpg
 ---
 <h4>Pick the right location</h4>
 <p>Picking a garden area for your garden is key. A below-average area can bring about careless vegetarians! Here are a

@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/sewage.jpg
 image2: /assets/images/article-images/sewage.jpg
+thumbnail: /assets/images/article-images/sewage_thumb.jpg
 ---
 <p>Introducing the Sewage Treatment Plant (STP) is viewed as an extremelycomplex and time-consuming process. This upfront guide expects to give astep by step process of installation of an STP.</p>
 <ul style="list-style-type:none;">

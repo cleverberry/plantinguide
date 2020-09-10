@@ -6,6 +6,7 @@ categories: plant
 tags:
 image: /assets/images/article-images/garlic.jpg
 image2: /assets/images/article-images/garlic.jpg
+thumbnail:  /assets/images/article-images/garlic_thumb.jpg
 ---
 <h4>Garlic Planting Guide</h4>
 <p>
