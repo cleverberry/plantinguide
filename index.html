@@ -33,6 +33,11 @@ layout: default
   </div>
 </header>
 <main class="content" role="main">
+  <script type="text/javascript" src="//cdn.refersion.com/creative.js"></script>
+  <script>$rfsn_creative.generate('refersion_client/38349/creatives/dynamic/49405-05ad07cc4b767d4d73123623a08383b9.json', {
+      aid: '4693381.290030'
+    });</script>
+  <div id="rfsn_img_49405"></div>
   {% if site.tags.featured %}
   <h5 class="index-headline featured"><span>Featured</span></h5>
   <div class="container featured">
@@ -67,7 +72,8 @@ layout: default
         <section class="post-excerpt" itemprop="description">
           <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
         </section>
-        <img alt="{{ post.title }}" class="rounded img-fluid" src="{% if post.thumbnail %}{{ post.thumbnail }} {% else %}{{ post.image }}{% endif %}">
+        <img alt="{{ post.title }}" class="rounded img-fluid"
+          src="{% if post.thumbnail %}{{ post.thumbnail }} {% else %}{{ post.image }}{% endif %}">
         <div class="post-meta">
           <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
           <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
