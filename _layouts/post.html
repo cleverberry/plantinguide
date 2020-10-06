@@ -4,6 +4,11 @@
 <html>
 {% include head.html %}
 <link rel="stylesheet" type="text/css" href="{{ "/css/post-min.css"  | prepend: site.baseurl  }}" />
+<style>
+  .content {
+    max-width: 1000px;
+  }
+</style>
 
 <body itemscope itemtype="http://schema.org/Article">
   {% include header.html %}
@@ -59,7 +64,48 @@
           <span class="post-reading-time"></span> read
         </div>
         <a name="topofpage"></a>
-        {{content}}
+        <div class="container-fluid">
+          <div class="row">
+            <div class="d-none d-sm-block col-md-3">
+              <script type="text/javascript" src="//cdn.refersion.com/creative.js"></script>
+              <script>$rfsn_creative.generate('refersion_client/38349/creatives/dynamic/49399-cf83a1849ea966affee4a51e9a34c0ab.json', {
+                  aid: '4693381.290030'
+                });</script>
+              <div id="rfsn_img_49399"></div>
+              <div style="margin-top: 20px; cursor: pointer">
+                <img alternative="banner-ads-placeholder"
+                  src="{{ site.baseurl }}/assets/images/banner-ads/banner-ads-placeholder.png">
+              </div>
+              <div style="margin-top: 20px; cursor: pointer">
+                <img alternative="banner-ads-placeholder"
+                  src="{{ site.baseurl }}/assets/images/banner-ads/banner-ads-placeholder.png">
+              </div>
+              <div style="margin-top: 20px; cursor: pointer">
+                <img alternative="banner-ads-placeholder"
+                  src="{{ site.baseurl }}/assets/images/banner-ads/banner-ads-placeholder.png">
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-9">
+              <div class="d-md-none align-middle" style="margin-top: 20px; margin-bottom: 20px; cursor: pointer">
+                <img class="img-fluid" alternative="banner-ads-placeholder"
+                  src="{{ site.baseurl }}/assets/images/banner-ads/banner-ads-placeholder-square.png">
+              </div>
+              <div class="d-md-none align-middle" style="margin-bottom: 20px; cursor: pointer">
+                <img class="img-fluid" alternative="banner-ads-placeholder"
+                  src="{{ site.baseurl }}/assets/images/banner-ads/banner-ads-placeholder-square.png">
+              </div>
+              {{content}}
+              <div class="d-md-none align-middle" style="margin-bottom: 20px; cursor: pointer">
+                <img class="img-fluid" alternative="banner-ads-placeholder"
+                  src="{{ site.baseurl }}/assets/images/banner-ads/banner-ads-placeholder-square.png">
+              </div>
+              <div class="d-md-none align-middle" style="margin-bottom: 20px; cursor: pointer">
+                <img class="img-fluid" alternative="banner-ads-placeholder"
+                  src="{{ site.baseurl }}/assets/images/banner-ads/banner-ads-placeholder-square.png">
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       <footer class="post-footer">
         <section class="share">
