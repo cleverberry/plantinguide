@@ -3,7 +3,7 @@ layout: post
 title: "Indoor Plant Pots Guide"
 dat: 2020-09-04
 categories: plant
-tags:
+tags: featured
 image: /assets/images/article-images/indoor_plant.jpg
 image2: /assets/images/article-images/indoor_plant.jpg
 thumbnail: /assets/images/article-images/plant pot_thumb.jpg
