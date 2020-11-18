@@ -4,8 +4,8 @@ title: "Garlic Planting Guide"
 date: 2020-09-07
 categories: plant
 tags:
-image: /assets/images/article-images/garlic.jpg
-image2: /assets/images/article-images/garlic.jpg
+image: /assets/images/article-images/garlic-thumb.jpg
+image2: /assets/images/article-images/garlic-thumb.jpg
 thumbnail:  /assets/images/article-images/garlic_thumb.jpg
 ---
 <h4>Garlic Planting Guide</h4>
